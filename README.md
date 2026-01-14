@@ -23,9 +23,3 @@ grade is from 'A' to 'D'. Print 'Please try again next time' if the grade is 'F'
 <h3>Output : </h3>
 
 ![Eligibility Check from Grade Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/main/eligibility-check-output.png?raw=true)
-
-![Grade Calculation Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/main/grade-calculation-output.png?raw=true)
-![Additional Comments on Grade Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/main/additional-comments-output.png?raw=true)
-![Eligibility Check from Grade Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/main/eligibility-check-output.png?raw=true)
-
-
