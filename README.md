@@ -12,7 +12,7 @@ For example, if the grade is 'A', then print 'Excellent work!'. If the grade is 
 If the grade is 'C', then print 'Good job'. If the grade is 'D', then print 'You passed, but you could do better'.
 And if the grade is 'F', then print 'Sorry, you failed'.</p>
 <h3>Output : </h3>
-![Additional Comments on Grade Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/main/grade-calculation-output.png?raw=true)
+![Additional Comments on Grade Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/main/additional-comments-output.png?raw=true)
 
 <h3>3. Eligibility Check from Grade</h3>
 <p>Further, extend the program to checck eligibility for the next level based on the grade
@@ -22,4 +22,7 @@ grade is from 'A' to 'D'. Print 'Please try again next time' if the grade is 'F'
 ![Eligibility Check from Grade Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/main/grade-calculation-output.png?raw=true)
 
 ![Grade Calculation Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/main/grade-calculation-output.png?raw=true)
+![Additional Comments on Grade Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/main/additional-comments-output.png?raw=true)
+![Grade Calculation Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/main/grade-calculation-output.png?raw=true)
+
 
