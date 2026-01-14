@@ -4,7 +4,7 @@
 <p>Develop a program that takes a score out of 100 as input from the user and calculates the corresponding grade using a ternary operator.
 Allocate grades from A to F for various ranges.</p>
 <h3>Output : </h3>
-[Grade Calculation Output].(https://github.com/sakinasendhi52/Grade-Calculator/blob/72025748bdf35820576dac6f01988093dbe969ec/grade_calculation.c)
+![Grade Calculation Output](https://github.com/sakinasendhi52/Grade-Calculator/blob/72025748bdf35820576dac6f01988093dbe969ec/grade_calculation.c)
 
 <h3>2. Additional Comments on Grade</h3>
 <p>Extend the program to provide additional comments based on the grade using a switch-case statement. 
